@@ -95,7 +95,7 @@ content:
         caption: 2013 - 2019
         description: | # this will include new lines to allow paragraphs
           Throughout my Bachelor's and part of my Master's I also worked various other jobs unrelated to software development or computer science: In electronics retailing, as a bouncer, but for the longest time as an employee for a private security contractor.
-  - title: About Me
+  - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Beyond my typical developer hobbies like endless small programming projects and a liking for gaming, some of my other interests are powerlifting, crochet and outdoor sports like hiking/camping, biking and swimming in the ocean. At my home in Germany I used to be a volunteer rescure swimmer with the Red Cross. When I have time I also play the piano and clarinet; I like jazz and classical music. I like to learn languages.
