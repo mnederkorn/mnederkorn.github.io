@@ -75,7 +75,7 @@ content:
 
           I took an elective course on *bayesian modelling* where I learned various data processing and modelling techniques in <mark>R</mark> and <mark>stan</mark>.
 
-          The final thesis was *Graph Games: Solutions and Strategy Computation in Theory and Practice*. Again, this deals with solving a problem from graph theory/theoretical computer science. For multiple related problems I took preexisting theoretical approaches and implemented them and tested their performance against each other under changing combinations.
+          The final thesis was *Graph Games: Solutions and Strategy Computation in Theory and Practice*. Again, this deals with solving a problem from graph theory/theoretical computer science. For multiple related problems I took preexisting theoretical approaches and implemented them and tested their performance against each other under multiple conditions.
   - title: Work Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
