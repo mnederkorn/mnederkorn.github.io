@@ -61,7 +61,7 @@ content:
         title: University of Duisburg-Essen
         caption: 2013 - 2018
         sub_title: Bachelor of Applied Computer Science
-        description: |
+        description: | 
         Aside from the expected content of a Bachelor's 
         The final thesis' was *Computing Core Graphs with SAT/SMT Solvers* <mark>python</mark>
         asdftest
