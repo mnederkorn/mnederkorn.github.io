@@ -53,6 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am most proficient in <mark>python</mark> and I prefer to work on the more abstract aspects of software development in the direction of data science or machine learning.
 
+  My native languages are german and french and I speak english fluently.
+
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -96,7 +98,7 @@ content:
   - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Beyond my typical developer hobbies like endless small programming projects and a liking for gaming, some of my other interests are powerlifting, crochet and outdoor sports like hiking/camping, biking and swimming in the Ocean. At my home in Germany I used to be a volunteer rescure swimmer with the Red Cross. When I have time I also play the piano and clarinet, I like jazz and classical music.
+      Beyond my typical developer hobbies like endless small programming projects and a liking for gaming, some of my other interests are powerlifting, crochet and outdoor sports like hiking/camping, biking and swimming in the Ocean. At my home in Germany I used to be a volunteer rescure swimmer with the Red Cross. When I have time I also play the piano and clarinet; I like jazz and classical music. I like to learning languages.
 
 # Footer
 # footer_show_references: true
