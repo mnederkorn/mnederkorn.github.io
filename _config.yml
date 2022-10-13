@@ -73,7 +73,7 @@ content:
         description: |
           As part of my master's I did a group project related to autonomous driving. We combined data from cameras and a Lidar to track other drivers in 3D space. The image processing for that used <mark>PyTorch</mark> and <mark>TensorFlow</mark> to detected the other drivers.
 
-          I took an elective course on *bayesian modelling* where I learned various data processing and modelling techniques in <mark>R</mark> and <mark>stan</mark>.
+          I took an elective course on *bayesian modeling* where I learned various data processing and modelling techniques in <mark>R</mark> and <mark>stan</mark>.
 
           The final thesis was *Graph Games: Solutions and Strategy Computation in Theory and Practice*. Again, this deals with solving a problem from graph theory/theoretical computer science. For multiple related problems I took preexisting theoretical approaches and implemented them and tested their performance against each other under multiple conditions.
   - title: Work Experience # Title for the section
