@@ -9,7 +9,7 @@ version: 2
 name: Maxime Nederkorn
 title: Computer Science MSc.
 email: mail@nederkorn.xyz
-website: nederkorn.xyz
+website: www.nederkorn.xyz
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -86,7 +86,7 @@ content:
         sub_title: Scientific research assistant
         caption: 2018 - 2019
         description: | # this will include new lines to allow paragraphs
-          Based on the presentation we did going off of my Bachelor's thesis the theoretical computer science chair hired me to expand [the software](https://github.com/mnederkorn/CoReS) to hypergraphs and add two ([1](https://github.com/mnederkorn/ccq), [2](https://github.com/mnederkorn/inv_chk)) proof of concept implementations that make use of the software. [This was again published](https://www.sciencedirect.com/science/article/abs/pii/S2352220818301561?via%3Dihub) in the *Journal of Logical and Algebraic Methods in Programming*.
+          Based on the presentation we did going off of my Bachelor's thesis, the theoretical computer science chair hired me to expand [the software](https://github.com/mnederkorn/CoReS) to hypergraphs and add two ([1](https://github.com/mnederkorn/ccq), [2](https://github.com/mnederkorn/inv_chk)) proof of concept implementations that make use of the software. [This was again published](https://www.sciencedirect.com/science/article/abs/pii/S2352220818301561?via%3Dihub) in the *Journal of Logical and Algebraic Methods in Programming*.
       - layout: left
         title: various
         # link: boringcompany.com
@@ -94,11 +94,11 @@ content:
         # sub_title: Scientific research assistant
         caption: 2013 - 2019
         description: | # this will include new lines to allow paragraphs
-          Throughout my Bachelor's and part of my Master's I also worked various other jobs unrelated to software development or computer science: In electronics retailing, as a bouncer, but for the longest time as an employee for a private security contractor.
+          Throughout my Bachelor's and part of my Master's I also worked various other jobs unrelated to software development or computer science: In electronics retail, as a bouncer, but for the most time as an employee for a private security contractor.
   - title: More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Beyond my typical developer hobbies like endless small programming projects and a liking for gaming, some of my other interests are powerlifting, crochet and outdoor sports like hiking/camping, biking and swimming in the ocean. At my home in Germany I used to be a volunteer rescure swimmer with the Red Cross. When I have time I also play the piano and clarinet; I like jazz and classical music. I like to learn languages.
+      Beyond my typical developer hobbies like endless small programming projects and a liking for gaming, some of my other interests are powerlifting, crochet and outdoor sports like hiking/camping, biking and swimming. At my home in Germany I used to be a volunteer rescure swimmer with the Red Cross. When I have time I also play the piano and clarinet; I like jazz and classical music. I like to learn languages.
 
 # Footer
 # footer_show_references: true
