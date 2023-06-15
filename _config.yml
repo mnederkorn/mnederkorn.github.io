@@ -49,9 +49,9 @@ orcid_username: 0000-0002-8807-7074
 # about_profile_image: images/profile.jpg
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Maxime and I'm a computer science graduate. I'm currently looking for a software development job in and around Amsterdam.
+  Hi, my name's Maxime and I'm a computer science graduate. I'm currently looking for a software development job in Europe.
 
-  I am most proficient in <mark>python</mark> and I prefer to work on the more abstract aspects of software development in the direction of data science or machine learning.
+  I am most proficient in <mark>python</mark> and I prefer to work on all things data (-science, -engineering, -analysis) and back-end.
 
   My native languages are german and french and I speak english fluently.
 
